@@ -19,7 +19,6 @@
     "node": "20.x || 22.x || 23.x || 24.x || 25.x"
   },
   "dependencies": {
-    "bindings": "^1.5.0",
     "prebuild-install": "^7.1.1"
   },
   "overrides": {
